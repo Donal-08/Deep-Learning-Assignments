@@ -5,4 +5,5 @@ Assignment 1 - contains code for Perceptron, Gradient Descent, Multi-Layer Perce
 
 Assignment 2 - contains the implementation of various CNN layers and functions such as Convolution function, Pooling function, Flattening layer from scratch
 
-AsigNment 3 - implementation for various CNN visualisatoin techniques such as Vanilla Backpropagation, Guided Backpropagation, Class Activartion Map(CAM), Guided-GradCAM
+Asignment 3 - implementation for various CNN visualisatoin techniques such as 
+Vanilla Backpropagation, Guided Backpropagation, Class Activartion Map(CAM), Guided-GradCAM
